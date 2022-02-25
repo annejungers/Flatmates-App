@@ -28,18 +28,18 @@ I have developed a small program with OOP in Python to help you share the monthl
 
 * Replit interface 
 
-![](.\files\replit.png)
+![](.\files\replit.PNG)
 
 * 🔗🔗**LINK** 🔗🔗  to test the CLI deployed on the cloud → [Flatmates-App](https://replit.com/@AnneJungers/Flatmates-App?embed=1)
 
 !! Don't forget to push the ▶ button in the lower right corner
 
-![](.\files\CLI.png)
+![](.\files\CLI.PNG)
 
 
 * Last but not least, open you **pdf report** by clicking on the link that is displayed at the end of the code
 
-![](.\files\pdf_report.png)
+![](.\files\pdf_report.PNG)
 
 ## Sources 
 
